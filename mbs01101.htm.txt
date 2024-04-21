@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Book 1 Chapter 101</title>
+</head>
+<body>
+  <a href="b1.html">back</a>
+  <br>
+  <br>
+  <h3>
+     &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">1</FONT>
+   [ज]<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; किं कृतं कर्म धर्मेण येने शापम उपेयिवान<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; कस्य शापाच च बरह्मर्षे शूद्रयॊनाव अजायत<BR>
+ &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">2</FONT>
+   [व]<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; बभूव बराह्मणः कश चिन माण्डव्य इति विश्रुतः<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; धृतिमान सर्वधर्मज्ञः सत्ये तपसि च सथितः<BR>
+ &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">3</FONT>
+  स आश्रमपदद्वारि वृक्षमूले महातपाः<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ऊर्ध्वबाहुर महायॊगी तस्थौ मौन वरतान्वितः<BR>
+ &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">4</FONT>
+  तस्य कालेन महता तस्मिंस तपसि तिष्ठतः<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; तम आश्रमपदं पराप्ता दस्यवॊ लॊप्त्र हारिणः<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; अनुसार्यमाणा बहुभी रक्षिभिर भरतर्षभ<BR>
+ &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">5</FONT>
+  ते तस्यावसथे लॊप्त्रं निदधुः कुरुसत्तम<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; निधाय च भयाल लीनास तत्रैवान्वागते बले<BR>
+ &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">6</FONT>
+  तेषु लीनेष्व अथॊ शीघ्रं ततस तद रक्षिणां बलम<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; आजगाम ततॊ ऽपश्यंस तम ऋषिं तस्करानुगाः<BR>
+ &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">7</FONT>
+  तम अपृच्छंस ततॊ राजंस तथा वृत्तं तपॊधनम<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; कतरेण पथा याता दस्यवॊ दविजसत्तम<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; तेन गच्छामहे बरह्मन पथा शीघ्रतरं वयम<BR>
+ &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">8</FONT>
+  तथा तु रक्षिणां तेषां बरुवतां स तपॊधनः<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; न किं चिद वचनं राजन्न अवदत साध्व असाधु वा<BR>
+ &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">9</FONT>
+  ततस ते राजपुरुषा विचिन्वानास तदाश्रमम<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ददृशुस तत्र संलीनांस तांश चॊरान दरव्यम एव च<BR>
+ &nbsp;&nbsp;<FONT COLOR="GREEN" SIZE="-1">10</FONT>
+  ततः शङ्का समभवद रक्षिणां तं मुनिं परति<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; संयम्यैनं ततॊ राज्ञे दस्यूंश चैव नयवेदयन<BR>
+ &nbsp;<FONT COLOR="GREEN" SIZE="-1">11</FONT>
+  तं राजा सह तैश चॊरैर अन्वशाद वध्यताम इति<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; स वध्य घातैर अज्ञातः शूले परॊतॊ महातपाः<BR>
+ &nbsp;<FONT COLOR="GREEN" SIZE="-1">12</FONT>
+  ततस ते शूलम आरॊप्य तं मुनिं रक्षिणस तदा<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; परतिजग्मुर महीपालं धनान्य आदाय तान्य अथ<BR>
+ &nbsp;<FONT COLOR="GREEN" SIZE="-1">13</FONT>
+  शूलस्थः स तु धर्मात्मा कालेन महता ततः<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; निराहारॊ ऽपि विप्रर्षिर मरणं नाभ्युपागमत<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; धारयाम आस च पराणान ऋषींश च समुपानयत<BR>
+ &nbsp;<FONT COLOR="GREEN" SIZE="-1">14</FONT>
+  शूलाग्रे तप्यमानेन तपस तेन महात्मना<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; संतापं परमं जग्मुर मुनयॊ ऽथ परंतप<BR>
+ &nbsp;<FONT COLOR="GREEN" SIZE="-1">15</FONT>
+  ते रात्रौ शकुना भूत्वा संन्यवर्तन्त सर्वतः<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; दर्शयन्तॊ यथाशक्ति तम अपृच्छन दविजॊत्तमम<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; शरॊतुम इच्छामहे बरह्मन किं पापं कृतवान असि<BR>
+ &nbsp;<FONT COLOR="GREEN" SIZE="-1">16</FONT>
+  ततः स मुनिशार्दूलस तान उवाच तपॊधनान<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; दॊषतः कं गमिष्यामि न हि मे ऽनयॊ ऽपराध्यति<BR>
+ &nbsp;<FONT COLOR="GREEN" SIZE="-1">17</FONT>
+  राजा च तम ऋषिं शरुत्वा निष्क्रम्य सह मन्त्रिभिः<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; परसादयाम आस तदा शूलस्थम ऋषिसत्तमम<BR>
+ &nbsp;<FONT COLOR="GREEN" SIZE="-1">18</FONT>
+  यन मयापकृतं मॊहाद अज्ञानाद ऋषिसत्तम<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; परसादये तवां तत्राहं न मे तवं करॊद्धुम अर्हसि<BR>
+ &nbsp;<FONT COLOR="GREEN" SIZE="-1">19</FONT>
+  एवम उक्तस ततॊ राज्ञा परसादम अकरॊन मुनिः<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; कृतप्रसादॊ राजा तं ततः समवतारयत<BR>
+ &nbsp;<FONT COLOR="GREEN" SIZE="-1">20</FONT>
+  अवतार्य च शूलाग्रात तच छूलं निश्चकर्ष ह<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; अशक्नुवंश च निष्क्रष्टुं शूलं मूले स चिच्छिदे<BR>
+ &nbsp;<FONT COLOR="GREEN" SIZE="-1">21</FONT>
+  स तथान्तर गतेनैव शूलेन वयचरन मुनिः<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; स तेन तपसा लॊकान विजिग्ये दुर्लभान परैः<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; अणी माण्डव्य इति च ततॊ लॊकेषु कथ्यते<BR>
+ &nbsp;<FONT COLOR="GREEN" SIZE="-1">22</FONT>
+  स गत्वा सदनं विप्रॊ धर्मस्य परमार्थवित<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; आसनस्थं ततॊ धर्मं दृष्ट्वॊपालभत परभुः<BR>
+ &nbsp;<FONT COLOR="GREEN" SIZE="-1">23</FONT>
+  किं नु तद दुष्कृतं कर्म मया कृतम अजानता<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; यस्येयं फलनिर्वृत्तिर ईदृश्य आसादिता मया<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; शीघ्रम आचक्ष्व मे तत्त्वं पश्य मे तपसॊ बलम<BR>
+ &nbsp;<FONT COLOR="GREEN" SIZE="-1">24</FONT>
+   [धर्म]<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; पतंगकानां पुच्छेषु तवयेषीका परवेशिता<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; कर्मणस तस्य ते पराप्तं फलम एतत तपॊधन<BR>
+ &nbsp;<FONT COLOR="GREEN" SIZE="-1">25</FONT>
+   [आण]<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; अल्पे ऽपराधे विपुलॊ मम दण्डस तवया कृतः<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; शूद्रयॊनाव अतॊ धर्ममानुषः संभविष्यसि<BR>
+ &nbsp;<FONT COLOR="GREEN" SIZE="-1">26</FONT>
+  मर्यादां सथापयाम्य अद्य लॊके धर्मफलॊदयाम<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; आचतुर्दशमाद वर्षान न भविष्यति पातकम<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; परेण कुर्वताम एवं दॊष एव भविष्यति<BR>
+ &nbsp;<FONT COLOR="GREEN" SIZE="-1">27</FONT>
+   [व]<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; एतेन तव अपराधेन शापात तस्य महात्मनः<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; धर्मॊ विदुर रूपेण शूद्रयॊनाव अजायत<BR>
+ &nbsp;<FONT COLOR="GREEN" SIZE="-1">28</FONT>
+  धर्मे चार्थे च कुशलॊ लॊभक्रॊधविवर्जितः<BR>
+ &nbsp;&nbsp;&nbsp;&nbsp; दीर्घदर्शी शम परः कुरूणां च हिते रतः<BR>
+  </h3>
+</body>
+</html>
